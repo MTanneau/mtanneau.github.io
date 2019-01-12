@@ -1,0 +1,3 @@
+
+
+Whether it is for processing data or implementing algorithms, programming has become virtually ubiquitous in Operations Research. Yet, bridging the gap between theory and practice holds challenges of its own, that can represent significant amounts of time and energy. This talk aims at providing some implementation tips and good practices, and will focus on typical research-to-engineering workflows in OR. Covered topics will range from choosing a programming language to running and analyzing numerical experiments.
