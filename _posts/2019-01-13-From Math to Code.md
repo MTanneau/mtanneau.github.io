@@ -28,4 +28,4 @@ Finally, we provide some generic insights and tips on how to run numerical exper
 
 ## Talk material
 
-Presentation material of an earlier version of this talk can be found here: https://github.com/ds4dm/tipsntricks/tree/master/workflow
+Presentation material of an earlier version of this talk can be found [here](https://github.com/ds4dm/tipsntricks/tree/master/workflow)
