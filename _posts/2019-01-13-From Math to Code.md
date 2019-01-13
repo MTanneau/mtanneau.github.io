@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Math to Code
+title: From doing Math to writing code 
 subtitle: Workflow and implementation tips
 ---
 
