@@ -15,13 +15,13 @@ Finally, we provide some generic insights and tips on how to run numerical exper
 
 ## Outline
 
-* Programming languages and optimization software
-* Writing good code
+* [10-15min] Programming languages and optimization software
+* [55-65min] Writing good code
   * Good practices
   * Version control (Git)
   * Unit testing
   * Profiling and optimizing code
-* Running numerical experiments
+* [15-20min] Running numerical experiments
   * Generic setting for experiments
   * Sanity checks
   * Reproducibility
