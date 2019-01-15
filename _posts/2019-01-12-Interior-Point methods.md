@@ -34,7 +34,7 @@ Finally, we mention the extension of IPMs to non-linear optimization, and their 
 ## Implementation
 
 The IPM solver will be coded in Julia, in the form of a fill-in-the-gaps exercise.
-The initial code will contain instances from the Netlib library, the solver's squeleton as well as necessary utilities (e.g. instance reader) and data structures.
+The initial code will contain instances from the Netlib library, the solver's skeleton, as well as necessary utilities (e.g. instance reader) and data structures.
 
 Missing parts, to be implemented during the tutorial,  include:
 * Interior-point algorithm
