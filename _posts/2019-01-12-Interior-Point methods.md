@@ -46,3 +46,7 @@ Missing parts, to be implemented during the tutorial,  include:
   * Cholesky factorization (with Julia's standard library)
 
 Other than basic knowledge of Julia and its LinearAlgebra library (which will be covered in the Julia tutorial), no advanced programming skills nor Julia knowledge are required.
+
+## Talk material
+
+Presentation material (not a final version) can be found [here](https://www.dropbox.com/s/iqjfsugq2rtosge/AIRO_Tutorial-IPM_slides.pdf?dl=0).
